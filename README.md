@@ -1,4 +1,4 @@
 # Trillo-app-with-Jonas
 
 
-Trillo app is an Hotel booking project buils using css-flexbox.
+Trillo app is a Hotel booking project buils using css-flexbox.
